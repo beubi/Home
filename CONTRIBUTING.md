@@ -77,3 +77,4 @@ Addresses #bugnumber (in this specific format)
 -  Tests only need to be present for issues that need to be verified by QA (e.g. not tasks)
 -  If there is a scenario that is far too hard to test there does not need to be a test for it.
   - "Too hard" is determined by the team as a whole.
+- You can use a service such as http://qem.io to see your pull-request running
